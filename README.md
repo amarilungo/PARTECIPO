@@ -3,7 +3,7 @@ SISTEMA INFORMATICO PER LA GESTIONE DELLE PARTECIPATE
 
 E' un sistema per la gestione del processo di Consolidamento dei Bilanci realizzato dalla palitalsoft.
 
-#Descrizione
+# Descrizione
 
 Partecipo è stato progettato per la pubblica amministrazione come un canale di comunicazione a doppio ingresso tra i soggetti partecipati e l’ente. I dati e le informazioni caricati infatti, possono essere visionati da ambo le parti, consentendo così lo snellimento dei processi amministrativi, ma anche la trasparenza dei processi tra i due.
 
@@ -22,7 +22,7 @@ JasperSoft Studio 	>5 	Report builder
 Installazione
 
 Per tutti i dettagli circa le modalità di installazione di Partecipo leggere e seguire le istruzioni di installazione.
-Principali funzionalità
+# Principali funzionalità
 
     Anagrafe dei Soggetti Partecipati, con tutte le informazioni necessarie per il piano di razionalizzazione annuale previsto dal TUSP e le informazioni previste dalla normativa sulla trasparenza
     Gestione dei soggetti in house e dei conseguenti obblighi posti in capo all’ente e alla partecipata
