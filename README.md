@@ -49,6 +49,7 @@ Il sistema offre le seguenti funzionalità:
 >	Possibilità di affiancare al software un’analisi dei dati attraverso sistemi di business intelligence;
 >	Possibilità di abbinare alle singole registrazioni la documentazione di supporto, anche tramite un gestore documentale integrato nel sistema
 
+
 # Ulteriori funzionalità
 
     Anagrafe dei Soggetti Partecipati, con tutte le informazioni necessarie per il piano di razionalizzazione annuale previsto dal TUSP e le informazioni previste dalla normativa sulla trasparenza
