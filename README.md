@@ -24,6 +24,33 @@ Installazione
 Per tutti i dettagli circa le modalità di installazione di Partecipo leggere e seguire le istruzioni di installazione.
 # Principali funzionalità
 
+Il sistema offre le seguenti funzionalità: 
+>	Definizione e gestione Gruppo Amministrazione Pubblica (GAP);
+>	Gestione anagrafiche;
+>	Gestione dettagli partecipazione/controllo (importo, %, ecc.);
+>	Importazione dati contabili;
+>	Import bilanci;
+>	Import partite infragruppo;
+>	Gestione Infragruppo;
+>	Immissione manuale partite infragruppo;
+>	Gestione rettifiche partite Infragruppo;
+>	Gestione Rettifiche di coerenza e di consolidamento;
+>	Inserimento e gestione rettifiche di coerenza;
+>	Rilevamento automatico differenze di consolidamento;
+>	inserimento automatico rettifiche di consolidamento;
+>	Verifica quadrature rettifiche;
+>	Funzione di generazione Bilancio Aggregato (pre Consolidamento);
+>	Funzione di generazione Bilancio Consolidamento;
+>	Report Interattivi per analisi aggregate e di dettaglio;
+>	Reportistica ufficiale;
+>	Generazione Tabelle da allagare alla Nota Integrativa;
+>	Generazione file in formato xbrl per invio Banca Dati Amministrazioni Pubbliche (BDAP);
+>	Possibilità di esportare i dati, definendo da sistema i campi interessati, ottenendo file csv,xlsx, ecc…;
+>	Possibilità di affiancare al software un’analisi dei dati attraverso sistemi di business intelligence;
+>	Possibilità di abbinare alle singole registrazioni la documentazione di supporto, anche tramite un gestore documentale integrato nel sistema
+
+# Ulteriori funzionalità
+
     Anagrafe dei Soggetti Partecipati, con tutte le informazioni necessarie per il piano di razionalizzazione annuale previsto dal TUSP e le informazioni previste dalla normativa sulla trasparenza
     Gestione dei soggetti in house e dei conseguenti obblighi posti in capo all’ente e alla partecipata
     Composizione del Consiglio di amministrazione e del Collegio sindacale, con gestione della documentazione riguardo l’assenza di clausole di inconferibilità
